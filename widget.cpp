@@ -750,7 +750,7 @@ void Widget::showpage()
     for (int j = 0; j < 2; j++)
         ui->tableView->setColumnWidth(j, 90);
     for (int j = 2; j < 11; j++)
-        ui->tableView->setColumnWidth(j, 95);
+        ui->tableView->setColumnWidth(j, 93);
     ui->tableView->verticalHeader()->setVisible(false);
     //设置标题
     /*
