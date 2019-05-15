@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>1.ico</file>
+        <file>sjtu.ico</file>
+    </qresource>
+</RCC>
